@@ -1,4 +1,4 @@
-alert("Funcionou!")
+//alert("Funcionou!")
 function consultaCEP(){
     $(".barra-progresso").show();
     var cep = document.getElementById("CEP").value;
